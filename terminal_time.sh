@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Terminal time $(date)"
+echo "Terminal time `date`"
 
